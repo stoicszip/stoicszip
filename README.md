@@ -1,4 +1,4 @@
-Not a developer, passionated about IT tho. (Linux, network, security, etc.)
+Not a developer, passionated about IT tho.
 
 Using gentoo amd64 with openrc as my daily driver.
 

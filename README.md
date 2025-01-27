@@ -1,1 +1,1 @@
-    reach me at stoics@tuta.com
+Self-proclaimed mensa certfified.
